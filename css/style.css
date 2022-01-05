@@ -1,0 +1,40 @@
+body {
+	background: #252525;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+	padding: 10px;
+	position: relative;
+}
+.logo__svg {
+	overflow: visible;
+}
+.logo__more {
+	position: absolute;
+	display: none;
+}
+.logo__more-2 {
+	position: absolute;
+	display: none;
+}
+.logo__more-svg {
+	margin-top: 10px;
+	width: 180px;
+}
+.logo__more-svg-2 {
+	margin-top: -10px;
+	width: 180px;
+}
+/* #Vector_12,
+#Vector_13 {
+	fill: #fff;
+} */
