@@ -34,7 +34,10 @@ body {
 	margin-top: -10px;
 	width: 180px;
 }
-/* #Vector_12,
+#Vector_12,
 #Vector_13 {
 	fill: #fff;
-} */
+}
+#color-white {
+	fill: #fff;
+}
